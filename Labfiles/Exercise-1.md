@@ -18,7 +18,7 @@ In this exercise, you will create a development container and define specific ex
 
 ## Task 1: Enable Copilot inside a Codespace
 
-1. Navigate back to the home page of your repository, click on **Code** **(1)** tab of your repository, click the **Add file** **(2)** drop-down button, and then select `Create new file` **(3)**.
+1. Navigate back to the home page of your repository in your VM, click on **Code** **(1)** tab of your repository, click the **Add file** **(2)** drop-down button, and then select `Create new file` **(3)**.( If you are not able to find the created repository, then re-create an other repository with the same name in the vm)
 
     ![](../media/create-new-file.png)
 
